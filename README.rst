@@ -3,6 +3,7 @@ Document Heading
 ================
 
 |image1|
+
 Heading
 =======
 
@@ -62,7 +63,7 @@ Nested lists:
    * item 2a
    * item 2b
 
-|Image 2|
+|image 2|
 
 Figure X: Figure heading
 
