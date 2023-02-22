@@ -1,7 +1,7 @@
-Welcome to the Mountain Green Cover Index's documentation!
+Welcome to UNEP-WCMC documentation!
 ==========================================================
 
-Documentation to the Mountain Green Cover Index tools developed by FAO and UNEP-WCMC:
+Documentation to ................:
 
 Contents
 --------
